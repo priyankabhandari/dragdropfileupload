@@ -1,0 +1,11 @@
+{
+    "name": "preksh/dragdropfileupload",
+    "description": "file upload",
+    "authors": [
+        {
+            "name": "priyanka",
+            "email": "priyanka.yulop@gmail.com"
+        }
+    ],
+    "require": {}
+}
